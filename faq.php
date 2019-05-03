@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from themewinter.com/html/lawfirm/faq.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 03 Aug 2016 14:25:32 GMT -->
+<head>
+
+	<!-- Basic Page Needs
+	================================================== -->
+	<meta charset="utf-8">
+    <title>Integra Insurance Brokers. Miami Insurance agency. The best and more reliable</title>
+    <meta name="description" content="">	
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="icon" href="img/favicon/favicon-32x32.php" type="image/x-icon" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.php">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.php">
+	<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.php">
+	
+	<!-- CSS
+	================================================== -->
+	
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Template styles-->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- Responsive styles-->
+	<link rel="stylesheet" href="css/responsive.css">
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Animation -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/owl.theme.css">
+
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+	
+<body>
+
+	<div class="body-inner">
+
+	    <?php include('header.php')?>
+
+
+	<div id="banner-area">
+		<div class="container">
+			<div class="row">
+				<!-- Subpage title start -->
+				<div class="banner-title-content col-sm-12">
+		        	<div class="text-center">
+			        	<h2>Preguntas Frecuentes</h2>
+			        	<ul class="breadcrumb">
+				            <li><i class="icon icon-home2"></i> Inicio</li>
+				            <li>Quienes Somos?</li>
+				            <li><a href="#">Preguntas frecuentes</a></li>
+			          	</ul>
+		          	</div>
+		      	</div><!-- Subpage title end -->
+			</div>
+		</div>
+	</div><!-- Banner area end -->
+
+
+	<!-- Main container start -->
+	<section id="main-container">
+		<div class="container">El seguro no tiene que ser complicado. Olvide las palabras confusas y reciba las respuestas que necesita.<br><br><b> Seguro de Automovil<b> <br><br>
+			<div class="row">
+				<div class="col-md-8 col-sm-8 col-xs-12">
+
+					<div class="panel-group" id="accordion">
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">¿Cómo obtengo una cotización de seguro de auto?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapseOne" class="panel-collapse collapse in">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/quote.jpg" alt="">
+			                    <p> Puede obtener su cotización de seguros de autos detallada y personalizada de diferentes maneras:<br>
+
+Obtenga una cotización en línea a través de nuestro sitio web: <a href="http://www.integrains.com">www.integrains.com</a>.<br>
+Llame al 786 212 1601 y obtenga una cotización por teléfono.<br>
+Póngase en contacto con nuestros agentes para obtener una cotización.
+Sin importar el camino que elija, ¡lo haremos fácil y conveniente! </p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 1 end-->
+		              		<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsedos">¿Qué es un deducible?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsedos" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/deducible.jpg" alt="">
+			                    <p> En palabras simples, un deducible es el monto que debe pagar en caso de un accidente, daño o pérdida de su vehículo. Una vez pagado el deducible, su seguro paga los costos, hasta el límite de su póliza.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 2 end-->
+		              		<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsetres">¿Debería elegir un deducible más alto o más bajo?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsetres" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/deducible2.jpg" alt="">
+			                    <p> Eso depende de usted, y de su presupuesto. Un deducible más alto significa que los pagos mensuales serán menores, pero pagará más de su propio bolsillo si presenta una reclamación. Un deducible más bajo significa que los pagos mensuales serán mayores, pero ahorrará dinero si presenta una reclamación. Cuando elija su deducible, piense en el monto de dinero que puede pagar con comodidad en el caso de que ocurra un accidente.</p>
+
+<p>¿Todavía no está seguro sobre cuál debería ser su deducible? Su agente de Integra Insurance puede ayudarle a decidir lo más adecuado para su presupuesto.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 3 end-->
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsecuatro">¿Quiénes están cubiertos con mi póliza de seguro para autos?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsecuatro" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/family.jpg" alt="">
+			                    <p> Una póliza de seguro para autos por lo general lo cubre a usted, su cónyuge/pareja, parientes que viven en su casa y otros conductores con licencia que tienen permiso para conducir su vehículo asegurado.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 4 end-->
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsecinco">¿Cuánta cobertura de seguro para autos debo tener?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsecinco" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/cobertura.jpg" alt="">
+			                    <p> Hay una cantidad de factores que influyen en el monto de cobertura que debe tener:
+
+<p><b>Requisitos del estado:</b> el Estado de la Florida, como la mayoria de los Estados, requieres como mínimo, cobertura de responsabilidad civil.</p> <p> La cobertura de responsabilidad civil paga lesiones o daños a la propiedad de terceros. Hay dos tipos:
+
+<p>Responsabilidad civil por lesiones corporales: si usted causa un accidente y alguien resulta lastimado, ayuda a cubrir esas lesiones. También ayuda a proteger si le hacen un juicio, hasta el límite de su póliza.</p>
+<p>Responsabilidad por daños a la propiedad: si usted causa daños a la propiedad de un tercero, como su buzón de correo o auto, esto ayuda a cubrir los costos de reparación de los daños, hasta el límite de su póliza. Su agente de Integra Insurance sabrá explicarle estas coberturas.</p>
+<p><b>Tipo de vehículo:</b> el tipo de vehículo que conduce influye en el tipo de seguro que puede considerar.</p>
+<p><b>Vehículos arrendados o financiados:</b> asegurar un vehículo arrendado o financiado requiere que usted tenga cobertura integral y contra choque. Así es como el prestamista o la compañía de arrendamiento protege su inversión. Una vez que el vehículo ya fue cancelado, usted puede reducir las primas al cancelar la cobertura integral o la cobertura contra choques.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 5 end-->
+	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapseseis">¿Puedo conducir sin un seguro para autos?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapseseis" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/cabeza.jpg" alt="">
+			                    <p> No es una buena idea. Además de las abultadas multas, su licencia de conducir y registro del vehículo pueden ser suspendidos. Y los riesgos son mayores si alguna vez se ve involucrado en un accidente. En resumen: si va a conducir, esté asegurado.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 6 end--> <br>
+		              	<b>Seguro de Vivienda<b><br><br>
+
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsenueve">¿Qué incluye una póliza de vivienda?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsenueve" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/h1.jpg" alt="">
+			                    <p> A menos que la causa de la pérdida se excluya en el contrato, una poliza de vivienda proporciona una cobertura de responsabilidad civil, pagos médicos a terceros, y la pérdida física directa accidental de su vivienda.
+
+<p>Además, la poliza proporciona cobertura para su propiedad personal de peligros específicos, incluyendo, pero no limitado a: Fuego, Relámpago, tormenta de viento, Granizo y Robo</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 9 end-->
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsediez">¿Mi póliza de vivienda cubre otras estructuras de mi propiedad?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsediez" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/h2.jpg" alt="">
+			                    <p> Además de su vivienda, este tipo de póliza cubre otras estructuras separadas ubicadas en su propiedad, que están separadas por un espacio libre de la casa. La póliza básica cubre otras estructuras en el 10% de su cobertura de la vivienda.</p>
+
+<p>Esto incluye, pero no se limita a: garajes separados, almacenes de materiales, graneros, casas de huéspedes.
+
+Póngase en contacto con nuestros agentes a fin de asegurar otras estructuras en su propiedad.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 10 end-->
+
+	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapseonce">¿Qué cantidad de covertura debo tener en mi casa?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapseonce" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/h3.jpg" alt="">
+			                    <p> El monto de la cobertura del seguro es su elección. Le recomendamos que compre una cobertura igual o mayor que el costo estimado de reposición de su hogar. El costo estimado de reposición de su casa también determina las opciones que están a su disposición.</p>
+
+<p>Puesto que es imposible predecir el costo para reemplazar su casa en el futuro, es importante contar con la cobertura suficiente para dar cuenta de las circunstancias imprevistas.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 11 end-->
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsedoce">¿Cuál es la diferencia entre el valor del mercado y el costo de reemplazo?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsedoce" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/h4.jpg" alt="">
+			                    <p> El valor de mercado es la cantidad que un comprador pagaría por el hogar y la tierra en su estado actual. Está influenciado por factores tales como la proximidad a buenas escuelas, las estadísticas de delincuencia local, y la disponibilidad de viviendas similares.</p>
+
+ <p>El costo de reemplazo es el costo de reemplazar toda la casa. Cuando usted asegura su casa por su valor estimado de reposición, su aseguradora le reembolsará el costo de reconstruir su casa, sujeto a las limitaciones de la póliza, basado en el tamaño y la estructura de la casa que se había perdido.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 11 end-->
+		              	 <br>
+		              	<b>Seguros Comerciales<b><br><br>
+
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsequince">¿Quién necesita un seguro comercial?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsequince" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/c1.jpg" alt="">
+			                    <p> Todos los negocios necesitan un seguro para proteger sus intereses. Cuando tiene un negocio, puede ocurrir algo inesperado, como lesiones, accidentes, juicios o daños al inmueble o a los bienes del negocio. El seguro comercial lo ayuda a proteger su negocio cuando las cosas no salen como lo planeó. Sin un seguro comercial, podría poner su negocio y sus sueños en riesgo.
+
+</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 9 end-->
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsedieciseis">¿Cuáles son los distintos tipos de seguros comerciales?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsedieciseis" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/c2.jpg" alt="">
+			                    <p> Existen muchos tipos de seguros para proteger su negocio contra posibles daños. El seguro que necesita depende del tipo de negocio que tenga. Entre los tipos de cobertura que cualquier negocio debe considerar se destacan:
+
+<li>Responsabilidad general</li>
+<li>Propiedad que debe cubrir e inmueble que posee y sus contenidos</li>
+<li>Seguro de compensación para trabajadores, si tiene empleados</li>
+<li>Responsabilidad civil profesional</li>
+<li>Responsabilidad civil de un producto</li>
+<li>Interrupción de negocios</li>
+<li>Autos comerciales</li>
+<li>Póliza suplementaria comercial</li>
+
+</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 9 end-->
+		              	<div class="panel panel-default">
+			                <div class="panel-heading">
+				                <h4 class="panel-title"> 
+				                	<a data-toggle="collapse" data-parent="#accordion" class="collapsed" href="#collapsedieciocho">¿Qué sucede si mis necesidades de seguro comercial cambian?</a> 
+				                </h4>
+			                </div>
+			                <div id="collapsedieciocho" class="collapse">
+			                  <div class="panel-body">
+			                  	<img class="pull-left" src="images/practice/c4.jpg" alt="">
+			                    <p> Los negocios cambian y evolucionan todo el tiempo, y la necesidad de una cobertura de seguro nueva o adicional también lo hace. Los agentes de Integra Insurance le recomendarán las coberturas de seguro adecuadas a medida que sus necesidades comerciales evolucionen.</p>
+			                  
+			                  </div>
+			                </div>
+		              	</div><!--/ Panel 11 end-->
+
+		            </div><!-- Accordion end -->
+				
+				</div><!-- Col-md-8 end -->
+
+
+				<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="sidebar sidebar-right">
+
+						<!-- Video start -->
+						<div class="widget">
+							<h3 class="widget-title">Integra Insurance</h3>
+							<div class="video-embed">
+		
+							<iframe src="https://player.vimeo.com/video/186100115" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+							
+							</div>
+						</div><!-- Video end -->
+
+
+					</div><!-- Sidebar end -->
+					
+				</div><!-- Sidebar col end -->
+
+			</div><!-- Row end -->
+
+		</div><!-- Container end -->
+	</section><!-- Main container end -->
+	
+<?php include('footer.php')?>
+
+	<!-- Javascript Files
+	================================================== -->
+
+	<!-- initialize jQuery Library -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<!-- Bootstrap jQuery -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script type="text/javascript" src="js/owl.carousel.js"></script>
+	<!-- PrettyPhoto -->
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+	<!-- Isotope -->
+	<script type="text/javascript" src="js/isotope.js"></script>
+	<script type="text/javascript" src="js/ini.isotope.js"></script>
+	<!-- Wow Animation -->
+	<script type="text/javascript" src="js/wow.min.js"></script>
+	<!-- SmoothScroll -->
+	<script type="text/javascript" src="js/smoothscroll.js"></script>
+	<!-- Eeasing -->
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<!-- Counter -->
+	<script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+	<!-- Waypoints -->
+	<script type="text/javascript" src="js/waypoints.min.js"></script>
+	<!-- Google Map API Key Source -->
+	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<!-- For Google Map -->
+	<script type="text/javascript" src="js/gmap3.js"></script>
+	<!-- Doc http://www.mkyong.com/google-maps/google-maps-api-hello-world-example/ -->
+	<!-- Template custom -->
+	<script type="text/javascript" src="js/custom.js"></script>
+	</div><!-- Body inner end -->
+
+</body>
+
+<!-- Mirrored from themewinter.com/html/lawfirm/faq.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 03 Aug 2016 14:25:32 GMT -->
+</html>
